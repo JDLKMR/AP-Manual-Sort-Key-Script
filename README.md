@@ -15,4 +15,4 @@ You can also adjust the digit padding that the added sort-keys use (default `4`)
 Currently only applies to `locations.json`. I might add the ability to do the same for items and categories later.
 
 ## AI Disclosure
-All programming of the script was done using Claude. Testing, documentation, and other writing is all done by me.
+All programming was done using Claude. Testing, documentation, and any other writing is all done by me.
